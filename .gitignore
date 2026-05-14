@@ -1,0 +1,11 @@
+.salt
+__pycache__/
+*.pyc
+.DS_Store
+
+# Patient data and intermediate extracts
+data/
+legacy/
+
+# If any fetch script has hardcoded creds, list it here
+# scripts/fetch_pillar_a_data.sh
